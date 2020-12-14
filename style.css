@@ -1,0 +1,20 @@
+body{
+  background: linear-gradient(to right, #00ff00, #ff0000);
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+.input{
+  display: flex;
+  justify-content: center;
+}
+
+input{
+  margin: 1vh;
+}
